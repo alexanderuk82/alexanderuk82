@@ -1,10 +1,23 @@
-- 👋 Hi, I’m Alexander 🤓 UI/Front-end developer
-- 👀 I’m interested to find freelancer jobs or any agency...
-- 🌱 I’m currently learning  back-end as node.js ...
-- 💞️ I’m looking to collaborate with another projects or developers...
-- 📫 How to reach me? Please send me an email alexanderburgosuk82@gmail.com or any message using this platform  ...
+# 👋 Hi, I’m Alexander 🤓
 
-<!---
-alexanderuk82/alexanderuk82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Welcome to my GitHub profile!
+
+## About Me
+- 🖥️ **UI/Front-end Developer:** Passionate about creating interactive and user-friendly web interfaces.
+- 👀 **Open for Opportunities:** Actively seeking freelance jobs or positions in agencies.
+- 🌱 **Expanding My Horizons:** Currently learning back-end technologies like Node.js.
+
+## What I'm Looking For
+- 💞️ **Collaborations:** Eager to collaborate on diverse projects and with other developers.
+- 🚀 **Growing Together:** Keen to contribute to and learn from the open-source community.
+
+## Get in Touch
+- 📧 **Email Me:** Reach out to me for any collaboration or job opportunities at [alexanderburgosuk82@gmail.com](mailto:alexanderburgosuk82@gmail.com).
+- 📬 **Message Me:** Feel free to send a message through this platform.
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to connect.
+
+
 --->
