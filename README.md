@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🌱 **Continuously Learning:** Currently enhancing my skills in back-end technologies like Node.js and mastering UI design systems.
 
 ## My Goals
-- 💞️ **Collaborations:** Keen to collaborate on innovative projects and with talented developers and designers.
+- 💞️ **Collaborations:** I can not wait to collaborate on innovative projects and with talented developers and designers.
 - 🚀 **Community Contribution:** Eager to contribute to and learn from the open-source community.
 
 ## Get in Touch
