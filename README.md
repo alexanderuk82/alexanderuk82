@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## About Me
-- 🖥️ **UX Engineer at AJBell:** Focused on delivering exceptional user experiences.
+- 🖥️ **Senior UX Engineer** Focused on delivering exceptional user experiences.
 - 👀 **Passionate Developer:** Always excited about new technologies and creative solutions.
 - 🌱 **Continuously Learning:** Currently enhancing my skills in back-end technologies like Node.js and mastering UI design systems.
 
